@@ -50,6 +50,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    p
 }
 
 .float-left {
@@ -68,7 +69,7 @@ p {
     margin-left: 20px;
 }
 
-.content section {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,7 +109,7 @@ p {
     max-width: 150px;
 }
 
-.benefits section {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
